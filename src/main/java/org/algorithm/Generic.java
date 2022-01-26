@@ -22,8 +22,10 @@ public class Generic {
     }
 
     public static void main(String[] args) {
-        geneticAlgorithm();
+        //geneticAlgorithm();
     }
+
+
 
     private static void geneticAlgorithm() {
         final Engine<BitGene, Integer> engine = Engine
